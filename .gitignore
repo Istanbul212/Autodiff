@@ -1,0 +1,8 @@
+# test binaries
+*.test
+
+# vs code settings
+.vscode
+
+# mac os
+*.dSYM
